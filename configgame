@@ -1,0 +1,13 @@
+gameWidth=700
+gameHeight=700
+PlayerWidth=120
+PlayerHeight=8
+Move=7
+row=3
+col=7
+dbName=demo
+dbPort=3306
+save=D:\\Java\\savegame.txt
+timeupdate=6
+user=root
+pass=
